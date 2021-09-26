@@ -1,4 +1,4 @@
-##andangbot
+##  andangbot
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
